@@ -1,13 +1,7 @@
 # Task 04: Customer Purchase Prediction using Decision Tree Classifier
 
 ## 📷 Screenshot
-<<<<<<< HEAD
-## 📷 Screenshot
-![Decision Tree Classifier](./Screenshot%202025-08-17%20084719.png)
-
-=======
-! ![Decision Tree Classifier Screenshot](screenshot.png)
->>>>>>> 69955e87f0fa3ee90b323ee32a144df60d549391
+![Decision Tree Classifier](./Screenshot%202025-08-17%20084719.png
 
 
 ## 📌 Objective
