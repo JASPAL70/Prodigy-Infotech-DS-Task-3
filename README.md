@@ -1,26 +1,43 @@
-# Task 04: Customer Purchase Prediction using Decision Tree Classifier
+# Task 03: Customer Purchase Prediction using Decision Tree Classifier
 
 ## 📷 Screenshot
 ![Decision Tree Classifier](./Screenshot%202025-08-17%20084719.png)
 
 
+📌 Objective
 
-## 📌 Objective
-Build a Decision Tree Classifier to predict whether a customer will purchase a product/service based on demographic and behavioral data.
+Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The goal is to handle missing values, explore relationships between variables, and identify meaningful patterns and trends.
 
+🔧 Steps Performed
 
-## ⚙️ Steps
-1. Load and preprocess the dataset (handle categorical and numerical features).
-2. Split data into training and testing sets.
-3. Train a Decision Tree Classifier.
-4. Evaluate model performance using accuracy, confusion matrix, and classification report.
-5. Visualize the decision tree.
+Removed missing values in the Embarked column.
 
-## 🛠️ Tools & Libraries
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib, Seaborn  
+Filled missing Cabin values with "Unknown".
 
----
-🚀 This project demonstrates how decision trees can be used for classification tasks in marketing analytics.
+Replaced missing Age values with the mean age.
+
+Performed exploratory data analysis (EDA) using visualizations.
+
+Identified survival trends across gender, class, and age groups.
+
+📊 Sample Visualization
+
+Below is a sample screenshot from the analysis:
+
+🚀 Tools Used
+
+Python
+
+Pandas
+
+Matplotlib & Seaborn
+
+✅ Outcome
+
+The analysis highlighted key insights such as:
+
+Women and children had higher survival chances.
+
+Passengers from higher classes survived more frequently.
+
+Embarked location influenced survival probabilities.
