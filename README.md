@@ -1,7 +1,7 @@
 # Task 04: Customer Purchase Prediction using Decision Tree Classifier
 
 ## 📷 Screenshot
-! C:\Users\user\Desktop\Prodigy-Infotech-DS-Task-3\Screenshot 2025-08-17 084719.png
+! ![Decision Tree Classifier Screenshot](screenshot.png)
 
 
 ## 📌 Objective
